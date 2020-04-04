@@ -2,12 +2,12 @@
 Faceshield design to aid first line responders during the COVID19 Epidemic
 ## GENERAL INFORMATION
 
-Title - Printable Face shield for airborne droplet protection.  
-Key Words - PPE, Additive manufacture.  
-Description - Brimmed Face Shield PPE.  
-Model Color - Independent of design.  
-Model Origin  - Custom CAD.  
-3D Modeling/CAD Software - Generated with Autodesk Fusion 360 with Commercial License and Dassault Systemes CATIA.   
+**Title** - Printable Face shield for airborne droplet protection.  
+**Key Words** - PPE, Additive manufacture.  
+**Description** - Brimmed Face Shield PPE.  
+**Model Color** - Independent of design.  
+**Model Origin**  - Custom CAD.  
+**3D Modeling/CAD Software** - Generated with Autodesk Fusion 360 with Commercial License and Dassault Systemes CATIA.   
 
 ## LICENSING AND TERMS
 License - MIT License.
@@ -37,3 +37,18 @@ Printer Dependant, 1 to multiple possible
 Slicing required prior to printing specific to user's printer.
 
 Post-process as needed in accordance with provided drawings.
+
+## Variants
+There are a couple variations for this faceshield, there is the shorty and the full variations which reduce mass while reducing the protection slightly.
+
+The headband can also be swapped for the cloth tie clips and string or elasticated fabric
+
+Shorty Variant:
+![alt text][Shorty]
+
+[Shorty]: https://raw.githubusercontent.com/mrjonny2/PNWS/master/images/IMAGE%202020-04-04%2014%3A41%3A20.jpg "Shorty Variant"
+
+Full Variant:
+![alt text][Full]
+
+[Full]: https://raw.githubusercontent.com/mrjonny2/PNWS/master/images/IMAGE%202020-04-04%2014%3A41%3A17.jpg "Full Variant"

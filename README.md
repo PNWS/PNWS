@@ -43,14 +43,12 @@ There are a couple variations for this faceshield, there is the shorty and the f
 
 The headband can also be swapped for the cloth tie clips and string or elasticated fabric
 
-Shorty Variant:
-
+Shorty Variant:  
 ![alt text][Shorty]
 
 [Shorty]: https://raw.githubusercontent.com/mrjonny2/PNWS/master/images/IMAGE%202020-04-04%2014%3A41%3A20.jpg "Shorty Variant"
 
-Full Variant:
-
+Full Variant:  
 ![alt text][Full]
 
 [Full]: https://raw.githubusercontent.com/mrjonny2/PNWS/master/images/IMAGE%202020-04-04%2014%3A41%3A17.jpg "Full Variant"

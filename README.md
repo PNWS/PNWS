@@ -1,13 +1,31 @@
 # PNWS
 Faceshield design to aid first line responders during the COVID19 Epidemic
-## GENERAL INFORMATION
 
-**Title** - Printable Face shield for airborne droplet protection.  
-**Key Words** - PPE, Additive manufacture.  
-**Description** - Brimmed Face Shield PPE.  
-**Model Color** - Independent of design.  
-**Model Origin**  - Custom CAD.  
-**3D Modeling/CAD Software** - Generated with Autodesk Fusion 360 with Commercial License and Dassault Systemes CATIA.   
+This is an update of "DtM-v3.1 Face Shield PPE, 3D printable headband NO LOGO", item 
+3DPX-013359. 
+
+## Updates made based on clinical feedback are:
+* Reduced mass and print time
+* Improvements to shield retention while reducing stress applied to the shield itself.
+* Thinned forehead section to reduce pressure on the forehead
+* Mount peg spacing changed for equivalency to "Swedish" headband
+* Added brimless variant to further reduce print time and mass
+* Added engineering definition for faceshield and headband
+* Added cloth tie clips as an option
+* Added option of foam headband
+* Increased spacing to improve wearability with glasses and N95 mask underneath.
+* Reduced weight solves for headaches from all-day wear of previous model 
+* Optimized build and assembly to standard materials that can be readily purchased (e.g., US letter-sized transparency) 
+ 
+## Product Point of View
+Due to a domestic supply chain gap for transparent face shields, this remixed 3D printed design immediately provides personal protective equipment (PPE) to healthcare workers responding to COVID-19, and incorporates clinical feedback and clinical reviews from other similar designs being used across hospitals across the nation. Face shield characteristics: 
+* limits aerosol and splatter exposure directly to the anterior head, specifically to the face and from above the head, while providing top ventilation to limit fogging and condensation
+* reduces aerosol and splatter exposure on N95 and other face masks; this follows current recommendations to use full face shields to protect limited supply N95 masks
+* re-usable for a single user (can survive multiple daily washes; transparent visor can be replaced from readily sourced materials when worn out)
+
+easy to fabricate within a few days of design approval (i.e., no complex supply chains or production bottlenecks)
+comfortable to wear and easy to don and doff (as it will be taken on and off dozens of times in a 12-24 hour shift)
+provides protection to broader area of face compared to standard safety goggles or glasses
 
 ## LICENSING AND TERMS
 License - MIT License.

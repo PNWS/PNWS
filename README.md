@@ -66,9 +66,9 @@ The headband can also be swapped for the cloth tie clips and string or elasticat
 Shorty Variant:  
 ![alt text][Shorty]
 
-[Shorty]: https://raw.githubusercontent.com/mrjonny2/PNWS/master/images/IMAGE%202020-04-04%2014%3A41%3A20.jpg "Shorty Variant"
+[Shorty]: https://raw.githubusercontent.com/mrjonny2/PNWS/master/images/R2-Short.jpeg "Shorty Variant"
 
 Full Variant:  
 ![alt text][Full]
 
-[Full]: https://raw.githubusercontent.com/mrjonny2/PNWS/master/images/IMAGE%202020-04-04%2014%3A41%3A17.jpg "Full Variant"
+[Full]: https://raw.githubusercontent.com/mrjonny2/PNWS/master/images/R2-Full.jpeg "Full Variant"

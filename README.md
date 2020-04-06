@@ -32,6 +32,9 @@ provides protection to broader area of face compared to standard safety goggles 
 ## LICENSING AND TERMS
 License - MIT License.
 
+## Folder Structure
+Once you download the fabrication package you will be see there is an assembly drawing and a BOM, please open these first to help decide which parts you would like to print.
+
 ## 3D PRINTING INFORMATION
 ### Printer technology/material
 Intended Method - Fused Deposition Modeling
@@ -55,6 +58,13 @@ Printer Dependant, 1 to multiple possible
 1h 3m using 0.6 nozzle, 0.4 layer height, pre-programmed settings.
 ### Pre- and post processing instructions:
 Slicing required prior to printing specific to user's printer.
+#### Slice Recomendations for 0.4mm Nozzle
+Default Prusa 0.3mm Draft Slice  
+15% infill
+Fill pattern - Rectilinear
+
+If you experience stringing on your prints, drop your nozzle temp for all but the first layer by 5C
+
 
 Post-process as needed in accordance with provided drawings.
 

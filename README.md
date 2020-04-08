@@ -83,3 +83,7 @@ Full Variant:
 ![alt text][Full]
 
 [Full]: https://raw.githubusercontent.com/mrjonny2/PNWS/master/images/R2-Full.jpeg "Full Variant"
+
+## Shield Go-Guage
+
+If you are manufacturing shields, please print one of these go guages to help verify that your hole punches are good.

@@ -36,6 +36,7 @@ License - MIT License.
 Once you download the fabrication package you will be see there is an assembly drawing and a BOM, please open these first to help decide which parts you would like to print.
 
 ## 3D PRINTING INFORMATION
+__Please see the [Sliced Files folder](https://github.com/mrjonny2/PNWS/tree/master/Sliced%20Files) for files that are ready for cutting and printing__
 ### Printer technology/material
 Intended Method - Fused Deposition Modeling
 

@@ -32,3 +32,26 @@ LICENSING AND TERMS
 	Pre- and post processing instructions:
 		Slicing required prior to printing specific to user's printer.
 		Post-process as needed in accordance with provided drawings.
+
+What to make?
+
+PNWS Frame:
+Print this: 					1x 128828-02 FACESHIELD FRAME PNWS B.1 Released.stl
+Cut this design out of clear plastic::		1x 128829 FACESHIELD PNWS R1
+Cut this out of stretchy fabric:		1x 128830 HEADBAND FACESHIELD PNWS
+
+PNWS Short:
+Print:						1x 128831-02 FACESHIELD FRAME SHORT PNWS B.1 Released.stl
+Cut this design out of clear plastic::		1x 128839 FACESHIELD ORIGAMI PNWS
+Cut this out of stretchy fabric:		1x 128830 HEADBAND FACESHIELD PNWS
+
+
+Optional Parts:
+Foam strip to improve comfort:			1x 128836 FACESHIELD FOAM
+Print Cloth Ties:				2x 128835-01 FACESHIELD CLOTH TIE A.1 Released.stl
+
+What are the Cloth Ties?
+If you can't get stretchy fabrics or button hole elastic use two cloth ties and any fabric or elastic to make a headband.
+
+How do I put it all together?
+Please open: PNWS Assembly Instructions.pdf

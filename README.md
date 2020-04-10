@@ -1,8 +1,8 @@
+## Do No Harm
+Please ensure that if you are planning to deliver these to others that you steralise them, always assume you are infected and take every precaution.
+
 # The latest PNSW Design is the R2
 128827-02 FABRICATION PACKAGE
-
-# Do No Harm
-Please ensure that if you are planning to deliver these to others that you steralise them, always assume you are infected and take every precaution.
 
 # PNWS
 Faceshield design to aid first line responders during the COVID19 Epidemic

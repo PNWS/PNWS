@@ -1,11 +1,11 @@
 ## Do No Harm
-Please ensure that if you are planning to deliver these to others that you steralise them, always assume you are infected and take every precaution.
+Please ensure that if you are planning to deliver these to others that you sterilise them, always assume you are infected and take every precaution.
 
 # The latest PNSW Design is the R2
 128827-02 FABRICATION PACKAGE
 
 # PNWS
-Faceshield design to aid first line responders during the COVID19 Epidemic
+Face shield design to aid first line responders during the COVID19 Epidemic
 
 This is an update of "DtM-v3.1 Face Shield PPE, 3D printable headband NO LOGO", item 
 3DPX-013359. 
@@ -16,12 +16,12 @@ This is an update of "DtM-v3.1 Face Shield PPE, 3D printable headband NO LOGO", 
 * Thinned forehead section to reduce pressure on the forehead
 * Mount peg spacing changed for equivalency to "Swedish" headband
 * Added brimless variant to further reduce print time and mass
-* Added engineering definition for faceshield and headband
+* Added engineering definition for face shield and headband
 * Added cloth tie clips as an option
 * Added option of foam headband
 * Increased spacing to improve wearability with glasses and N95 mask underneath.
 * Reduced weight solves for headaches from all-day wear of previous model 
-* Optimized build and assembly to standard materials that can be readily purchased (e.g., US letter-sized transparency) 
+* Optimised build and assembly to standard materials that can be readily purchased (e.g., US letter-sized transparency) 
  
 ## Product Point of View
 Due to a domestic supply chain gap for transparent face shields, this remixed 3D printed design immediately provides personal protective equipment (PPE) to healthcare workers responding to COVID-19, and incorporates clinical feedback and clinical reviews from other similar designs being used across hospitals across the nation. Face shield characteristics: 
@@ -56,6 +56,10 @@ Cut this out of stretchy fabric:		1x [128830 HEADBAND FACESHIELD PNWS](https://g
 Foam strip to improve comfort:			1x [128836 FACESHIELD FOAM](https://github.com/mrjonny2/PNWS/tree/master/128827-02%20FABRICATION%20PACKAGE/128836%20FACESHIELD%20FOAM)   
 Print Cloth Ties:				2x [128835-01 FACESHIELD CLOTH TIE A.1 Released.stl](https://github.com/mrjonny2/PNWS/blob/master/128827-02%20FABRICATION%20PACKAGE/128835%20FACESHIELD%20CLOTH%20TIE/128835-01%20FACESHIELD%20CLOTH%20TIE%20A.1%20Released.stl)   
 
+### Are any sliced files ready for my printer or ply cutter?
+
+Yes! Please look at the [Sliced Files folder](https://github.com/mrjonny2/PNWS/tree/master/Sliced%20Files).  If you would like to contribute to these please reach out and we can get them added.
+
 ### What are the Cloth Ties?
 If you can't get stretchy fabrics or button hole elastic use two cloth ties and any fabric or elastic to make a headband.
 
@@ -87,7 +91,7 @@ Printer Dependant, 1 to multiple possible
 1h 3m using 0.6 nozzle, 0.4 layer height, pre-programmed settings.
 ### Pre- and post processing instructions:
 Slicing required prior to printing specific to user's printer.
-#### Slice Recomendations for 0.4mm Nozzle
+#### Slice Recommendations for 0.4mm Nozzle
 Default Prusa 0.3mm Draft Slice  
 15% infill
 Fill pattern - Rectilinear
@@ -98,7 +102,7 @@ If you experience stringing on your prints, drop your nozzle temp for all but th
 Post-process as needed in accordance with provided drawings.
 
 ## Variants
-There are a couple variations for this faceshield, there is the shorty and the full variations which reduce mass while reducing the protection slightly.
+There are a couple variations for this face shield, there is the shorty and the full variations which reduce mass while reducing the protection slightly.
 
 The headband can also be swapped for the cloth tie clips and string or elasticated fabric
 
@@ -112,6 +116,6 @@ Full Variant:
 
 [Full]: https://raw.githubusercontent.com/mrjonny2/PNWS/master/images/R2-Full.jpeg "Full Variant"
 
-## Shield Go-Guage
+## Shield Go-Gauge
 
-If you are manufacturing shields, please print one of these go guages to help verify that your hole punches are good.
+If you are manufacturing shields, please print one of these go gauges to help verify that your hole punches are good.

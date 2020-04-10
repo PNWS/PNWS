@@ -34,7 +34,8 @@ License - MIT License.
 
 ## Folder Structure
 Once you download the fabrication package you will be see there is an assembly drawing and a BOM, please open these first to help decide which parts you would like to print.
-What to make?
+
+## What to make?
 
 ### PNWS Frame:
 Print this: 					1x [128828-02 FACESHIELD FRAME PNWS B.1 Released.stl](https://github.com/mrjonny2/PNWS/blob/master/128827-02%20FABRICATION%20PACKAGE/128828%20FACESHIELD%20FRAME%20PNWS/128828-02%20FACESHIELD%20FRAME%20PNWS%20B.1%20Released.stl)

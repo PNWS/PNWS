@@ -39,12 +39,12 @@ Once you download the fabrication package you will be see there is an assembly d
 
 ### PNWS Frame:
 Print this: 					1x [128828-02 FACESHIELD FRAME PNWS B.1 Released.stl](https://github.com/mrjonny2/PNWS/blob/master/128827-02%20FABRICATION%20PACKAGE/128828%20FACESHIELD%20FRAME%20PNWS/128828-02%20FACESHIELD%20FRAME%20PNWS%20B.1%20Released.stl)   
-Cut this design out of clear plastic::		1x [128829 FACESHIELD PNWS R1](https://github.com/mrjonny2/PNWS/tree/master/128827-02%20FABRICATION%20PACKAGE/128829%20FACESHIELD%20PNWS%20R1)   
+Cut this design out of clear plastic:		1x [128829 FACESHIELD PNWS R1](https://github.com/mrjonny2/PNWS/tree/master/128827-02%20FABRICATION%20PACKAGE/128829%20FACESHIELD%20PNWS%20R1)   
 Cut this out of stretchy fabric:		1x [128830 HEADBAND FACESHIELD PNWS](https://github.com/mrjonny2/PNWS/tree/master/128827-02%20FABRICATION%20PACKAGE/128830%20HEADBAND%20FACESHIELD%20PNWS)   
 
 ### PNWS Short:
 Print:						1x [128831-02 FACESHIELD FRAME SHORT PNWS B.1 Released.stl](https://github.com/mrjonny2/PNWS/blob/master/128827-02%20FABRICATION%20PACKAGE/128831%20FACESHIELD%20FRAME%20SHORT%20PNWS/128831-02%20FACESHIELD%20FRAME%20SHORT%20PNWS%20B.1%20Released.stl)   
-Cut this design out of clear plastic::		1x [128839 FACESHIELD ORIGAMI PNWS](https://github.com/mrjonny2/PNWS/tree/master/128827-02%20FABRICATION%20PACKAGE/128839%20FACESHIELD%20ORIGAMI%20PNWS)   
+Cut this design out of clear plastic:		1x [128839 FACESHIELD ORIGAMI PNWS](https://github.com/mrjonny2/PNWS/tree/master/128827-02%20FABRICATION%20PACKAGE/128839%20FACESHIELD%20ORIGAMI%20PNWS)   
 Cut this out of stretchy fabric:		1x [128830 HEADBAND FACESHIELD PNWS](https://github.com/mrjonny2/PNWS/tree/master/128827-02%20FABRICATION%20PACKAGE/128830%20HEADBAND%20FACESHIELD%20PNWS)   
 
 

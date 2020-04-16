@@ -1,0 +1,12 @@
+Enovia Confidential Printed copies are Uncontrolled.,,,,,,
+Generated on Apr 15,,,,,,
+128827 rev 3: Engineering Bill of Materials,,,,,,
+,, , , , , 
+Level,Strap Variant,Revision,Specification Title,Qty,Type,Description
+1,,2,"ASSY, FACESHIELD, PNWS",1,Assembly,Faceshield Released in response to the COVID19 epidemic released under MIT license
+2,Headband,1,"HEADBAND, FACESHIELD, PNWS",1,Part,
+2,--,2,"FACESHIELD, FRAME, SHORT, PNWS",1,Part,
+2,Cloth Tie,1,"FACESHIELD, CLOTH TIE",2,Part,Optional for use with generic fabrics to tie mask
+2,--,1,"FACESHIELD, FOAM",1,Part,
+2,--,1,"FACESHIELD, ORIGAMI, PNWS",1,Part,
+2,--,1,"FACESHIELD, FRAME, SHORT, PNWS, IM",1,Part,

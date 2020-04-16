@@ -41,8 +41,12 @@ Once you download the fabrication package you will be see there is an assembly d
 ### PNWS Frame:
 Download the PNWS Full Release Package
 
+NIH Link - https://3dprint.nih.gov/discover/3dpx-013883
+
 ### PNWS Short:
 Download the PNWS Short Release Package
+
+NIH Link - https://3dprint.nih.gov/discover/3dpx-013884
 
 ### Are any sliced files ready for my printer or ply cutter?
 

@@ -82,11 +82,18 @@ Printer Dependant, 1 to multiple possible
 ### Print Time:
 1h 3m using 0.6 nozzle, 0.4 layer height, pre-programmed settings.
 ### Pre- and post processing instructions:
-Slicing required prior to printing specific to user's printer.
+Slicing required prior to printing specific to user's printer.   
 #### Slice Recommendations for 0.4mm Nozzle
-Default Prusa 0.3mm Draft Slice  
-15% infill
-Fill pattern - Rectilinear
+* Layer Height = 0.3mm
+* First Layer height = 0.2mm
+* Perimeters = 2
+* Top solid layers = 3
+* Bottom Solid Layers = 3
+* Fill Density = 15%
+* Fill pattern = Rectilinear
+* No support Material
+* No Raft
+This is generally identical to the Default PrusaSlicr 0.3mm Draft with the exception of reducing fill density to 15%.    
 
 If you experience stringing on your prints, drop your nozzle temp for all but the first layer by 5C
 

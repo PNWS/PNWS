@@ -92,7 +92,8 @@ Slicing required prior to printing specific to user's printer.
 * Fill Density = 15%
 * Fill pattern = Rectilinear
 * No support Material
-* No Raft
+* No Raft    
+
 This is generally identical to the Default PrusaSlicr 0.3mm Draft with the exception of reducing fill density to 15%.    
 
 If you experience stringing on your prints, drop your nozzle temp for all but the first layer by 5C

@@ -119,3 +119,17 @@ Full Variant:
 ## Shield Go-Gauge
 
 If you are manufacturing shields, please print one of these go gauges to help verify that your hole punches are good.
+
+## Contributors
+Individuals directly contributing to this design include:
+
+* Alice Ferng
+* Inna Turevsky
+* James Gwertzman
+* Jason Vandervlugt
+* Jonny Flowers
+* Jon Friedman
+* Mandi Mckay
+* Tom Luce
+* Troy Hutt
+* Yasuhiro Wabiko

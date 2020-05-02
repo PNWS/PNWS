@@ -130,6 +130,7 @@ Individuals directly contributing to this design include:
 * Jonny Flowers
 * Jon Friedman
 * Mandi Mckay
+* Neil Cueto
 * Tom Luce
 * Troy Hutt
 * Yasuhiro Wabiko

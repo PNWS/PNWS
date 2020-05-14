@@ -131,6 +131,6 @@ Individuals directly contributing to this design include:
 * Jon Friedman
 * Mandi Mckay
 * Neil Cueto
-* Tom Luce
+* Tom L
 * Troy Hutt
 * Yasuhiro Wabiko

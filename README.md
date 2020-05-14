@@ -2,7 +2,11 @@
 Please ensure that if you are planning to deliver these to others that you sterilise them, always assume you are infected and take every precaution.
 
 # PNWS
-Face shield design to aid first line responders during the COVID19 Epidemic
+Face shield design to aid first line responders during the COVID19 Epidemic.   
+This design was created by members of the Washington Sate 3D Face Shield Hub.  
+
+If you are a medical professional and are in need of shields, please head to our website [faceshieldhub.org](https://www.faceshieldhub.org)
+
 
 This is an update of "DtM-v3.1 Face Shield PPE, 3D printable headband NO LOGO", item 
 3DPX-013359. 

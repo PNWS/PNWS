@@ -35,7 +35,7 @@ comfortable to wear and easy to don and doff (as it will be taken on and off doz
 provides protection to broader area of face compared to standard safety goggles or glasses
 
 ## LICENSING AND TERMS
-License - MIT License.
+License - Apache 2.
 
 ## Folder Structure
 Once you download the fabrication package you will be see there is an assembly drawing and a BOM, please open these first to help decide which parts you would like to print.

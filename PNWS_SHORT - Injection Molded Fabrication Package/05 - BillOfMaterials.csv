@@ -1,0 +1,10 @@
+Enovia Confidential Printed copies are Uncontrolled.,,,,,,
+Generated on Jul 22,,,,,,
+130879 rev 2: Engineering Bill of Materials,,,,,,
+,, , , , , 
+Level,Part Number,Revision,Specification Title,Qty,Type,Description
+1,130879,2,"Asssmebly, Face Shield, PNWS",1,Assembly,Faceshield Released in response to the COVID19 epidemic released under MIT license
+2,130007,3,Headband Elastic,1,Part,Button hole elastic
+2,128836,2,Foam for Frame,1,Part,Neoprene Foam
+2,130887,2,"Shield, Origami",1,Part,Polycarbonate shield
+2,129016,2,"Frame, Short, PNWS, Injection Molding",1,Part,PET Injection molded frame

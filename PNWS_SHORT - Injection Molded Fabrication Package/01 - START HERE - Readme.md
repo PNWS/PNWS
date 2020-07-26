@@ -47,13 +47,11 @@ If you would like to bring the PNWS into mass production download our Mass Produ
 
 We recomend shipping and packaging in kits of 25 in a 380mm x 300mm x 75mm (15"x12"x3") sized box.
 
-[Download Mass Production Release Package]()
-
 ### How do I put it all together?
-Please open: [PNWS Assembly Instructions.pdf](https://github.com/PNWS/PNWS/blob/master/PNWS%20Assembly%20Instructions.pdf)
+Please open: [PNWS Assembly Instructions.pdf](https://github.com/PNWS/PNWS/blob/Mass-Production-IM/PNWS_SHORT%20-%20Injection%20Molded%20Fabrication%20Package/02%20-%20Assembly%20Instructions.pdf)
 
 ### How do I keep my shield clean?
-Please open: [PNWS Assembly Instructions.pdf](https://github.com/PNWS/PNWS/blob/master/PNWS%20Assembly%20Instructions.pdf)
+Please open: [PNWS Assembly Instructions.pdf](https://github.com/PNWS/PNWS/blob/Mass-Production-IM/PNWS_SHORT%20-%20Injection%20Molded%20Fabrication%20Package/02%20-%20Assembly%20Instructions.pdf)
 
 ### Model Units:
 mm (Detailed drawings for each part are provided)

@@ -11,6 +11,12 @@ If you are a medical professional and are in need of shields, please head to our
 This is an update of "DtM-v3.1 Face Shield PPE, 3D printable headband NO LOGO", item 
 3DPX-013359. 
 
+# Available for Purchase
+The PNWS is available for purchase at cost on amazon at the following link.  PLEASE MAKE SURE TO REMOVE THE PROTECTIVE FILM ON THE SHIELD BEFORE USE.
+[https://www.amazon.com/dp/B08D7H37QX](https://www.amazon.com/dp/B08D7H37QX)
+
+
+
 ## Updates made based on clinical feedback are:
 * Reduced mass and print time
 * Improvements to shield retention while reducing stress applied to the shield itself.
